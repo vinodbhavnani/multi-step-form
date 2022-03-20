@@ -1,0 +1,20 @@
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: .5rem;
+  gap: .25em;
+}
+
+.navigate-button {
+    margin: 10px;
+}
+.progress-indicator {
+  margin: 20px;
+  width: 100%;
+}
+.progress-status-text {
+  font-size: .5em;
+}
+.submit-button {
+  width: 50%;
+}
